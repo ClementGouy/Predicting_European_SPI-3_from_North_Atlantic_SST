@@ -9,7 +9,7 @@ Statistical prediction of European drought (SPI-3) using North Atlantic sea surf
 The notebook `main_cl.ipynb` implements the full analysis pipeline:
 
 1. **Data loading** — SPI-3 (Copernicus EDO) and North Atlantic SST (ERA5 or HadISST1)
-2. **EOF analysis** — seasonal PCA of SST (JFM and JJA patterns)
+2. **EOF analysis** — seasonal PCA of SST 
 3. **Lagged correlations** — maps and per-region time series
 4. **K-means clustering** — spatial clustering of European SPI-3
 5. **MCA / CCA** — Maximum Covariance and Canonical Correlation Analysis between SST and SPI-3
