@@ -33,7 +33,7 @@ Select: *SPI E-OBS Short-term (3-month)*, monthly, 1991–2022.
 Download from the [Copernicus Climate Data Store](https://cds.climate.copernicus.eu/):
 *ERA5 monthly averaged data on single levels* → variable: `Sea surface temperature`.
 
-### SST — HadISST1 (alternative)
+### SST — HadISST1 (alternative but not recommended)
 
 **File:** `SST_1870-2025.nc`
 
