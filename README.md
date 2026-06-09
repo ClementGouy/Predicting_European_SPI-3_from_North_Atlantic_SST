@@ -70,8 +70,7 @@ pip install xarray numpy pandas matplotlib cartopy scikit-learn eofs xeofs stats
 
 ## References
 
-- Chevuturi et al. (2025) — methodology reference
-- [Hess paper (2017)](hess-21-1397-2017.pdf) — SPI methodology
-- [WMO SPI User Guide (2012)](WMO_standardized_precipitation_index_user_guide_en_2012.pdf)
-- [SPI Factsheet](factsheet_spi.pdf)
-- [Project proposal](PRP_proposal.pdf)
+- Chevuturi et al. (2025) : https://www.nature.com/articles/s43247-025-02367-1
+- Hess paper (2017) : https://hess.copernicus.org/articles/21/1397/2017/ 
+- WMO SPI User Guide (2012) Standardized Precipitation Index User Guide
+- SPI Factsheet Copernicus
